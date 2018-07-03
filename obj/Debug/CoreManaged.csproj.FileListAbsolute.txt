@@ -1,0 +1,17 @@
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\obj\Debug\CoreManaged.csprojResolveAssemblyReference.cache
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\CoreManaged.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\CoreManaged.pdb
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\UnityEditor.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\UnityEngine.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Mono.Cecil.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Unity.SerializationLogic.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Unity.DataContract.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Unity.UNetWeaver.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Unity.CecilTools.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\UnityEditor.xml
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\bin\Debug\UnityEngine.xml
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\obj\Debug\CoreManaged.dll
+D:\Project Work Space\Visual Studio 2015\SoftDongle\CoreManaged\CoreManaged\obj\Debug\CoreManaged.pdb
